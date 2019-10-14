@@ -5,11 +5,10 @@
 Instal GIT
 - Download GIT, buka website resminya GIT (git-scm.com)
 - Lalu download seusai spek komputer kita, RAM 64bit unduh yang 64bit
-- Setelah terinstal, lalu buka CMD atau Powershell, kemudian ketik peintah
+- Setelah terinstal, lalu buka CMD atau Powershell, kemudian ketik perintah
 2. Menambahkan Global Config
 git config --global user.name "John Smith"
 git config --global user.email "example@email.com"
-
 ![picture config](https://github.com/dilah199/latihan-1/blob/master/picture/userrrr.PNG)
 3. Membuat Reposiory Local
 Buat direktory project praktikum pertama dengan nama latiha1
