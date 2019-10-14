@@ -1,7 +1,8 @@
-#latihan 1
+﻿#latihan 
+1
 #cara penggunaan GIT, dan langkah-langkahnya
-
-1. Instal GIT
+1. 
+Instal GIT
 - Download GIT, buka website resminya GIT (git-scm.com)
 - Lalu download seusai spek komputer kita, RAM 64bit unduh yang 64bit
 - Setelah terinstal, lalu buka CMD atau Powershell, kemudian ketik peintah
