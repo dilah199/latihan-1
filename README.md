@@ -22,7 +22,7 @@ pada direktory tersebut, semua perubahan pada working direktory akan disimpan
 • Untuk membuat file dapat menggunakan text editor, lalu filenya disimpan direktori aktif (repository)
 .contoh file bernama README.md
 $ echo “#Latihan 1” >> README.md
-• File README.md berhasil dibuat.
+• File README.md berhasil dibuat
 6. Untuk menambahkan File yang baru saja di buat tersebut menggunakan git add
 $ git add README.md
 • File README.md berhasil ditambahkan.
