@@ -9,6 +9,8 @@ Instal GIT
 2. Menambahkan Global Config
 git config --global user.name "John Smith"
 git config --global user.email "example@email.com"
+
+![picture config](https://github.com/dilah199/latihan-1/blob/master/picture/userrrr.PNG)
 3. Membuat Reposiory Local
 Buat direktory project praktikum pertama dengan nama latiha1
 • Buat direktory project praktikum pertama dengan nama latihan1
