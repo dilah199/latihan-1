@@ -39,6 +39,7 @@ jalankan Git init, perintah untuk membuat repository local
 $ git init
 
 ![picture config](https://github.com/dilah199/latihan-1/blob/master/picture/gittinit.PNG)
+
 pada direktory tersebut, semua perubahan pada working direktory akan disimpan
 
 5. Menambahkan File baru pada repository
@@ -57,26 +58,39 @@ $ echo “#Latihan 1” >> README.md
 
 $ git add README.md
 
+![picture config](https://github.com/dilah199/latihan-1/blob/master/picture/gttrdm.PNG)
+
 • File README.md berhasil ditambahkan.
 
 7. Untuk menyimpan perubahan yang ada kedalam database repository local, gunakan perintah git commit -m “komentar commit”
 
 $ git add README.md
 
+![picture config](https://github.com/dilah199/latihan-1/blob/master/picture/ccc.PNG)
+
 • File README.md berhasil ditambahkan.
 
 8. Server repository yang kita gunakan adalah https://github.com lalu anda harus membuat akun terlebih dahulu
 
+![picture config](https://github.com/dilah199/latihan-1/blob/master/picture/http.PNG)
+
 9. Untuk menambahkan Remmote repository server gunakan perintah git remote add origin [url]
+
+![picture config](https://github.com/dilah199/latihan-1/blob/master/picture/cmmit.PNG)
 
 10. Untuk mengirim perubahan pada local repository ke server gunakan perintah git push
 
+![picture config](https://github.com/dilah199/latihan-1/blob/master/picture/gtpsh.PNG)
+
 11. Untuk masuk ke nano
 
-    1. $ cd /d
+
+    1. $ cd /d 
 
     2. $ cd lab_pemograman/
 
     3. $ cd latihan1/
 
     4. $ nano README.md
+
+
