@@ -1,4 +1,5 @@
 ﻿#latihan 
+1
 #cara penggunaan GIT, dan langkah-langkahnya
 
 1. Instal GIT
@@ -37,6 +38,7 @@ jalankan Git init, perintah untuk membuat repository local
 .
 $ git init
 
+![picture config](https://github.com/dilah199/latihan-1/blob/master/picture/gittinit.PNG)
 pada direktory tersebut, semua perubahan pada working direktory akan disimpan
 
 5. Menambahkan File baru pada repository
