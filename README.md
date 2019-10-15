@@ -1,8 +1,7 @@
 ﻿#latihan 
-1
 #cara penggunaan GIT, dan langkah-langkahnya
-1. 
-Instal GIT
+
+1. Instal GIT
 
 - Download GIT, buka website resminya GIT (git-scm.com)
 
@@ -17,6 +16,7 @@ git
  config --global user.email "example@email.com"
 
 ![picture config](https://github.com/dilah199/latihan-1/blob/master/picture/userrrr.PNG)
+
 3. Membuat Reposiory Local
 
 Buat direktory project praktikum pertama dengan nama latiha1
@@ -26,6 +26,8 @@ Buat direktory project praktikum pertama dengan nama latiha1
 $ mkdir latihan1
 
 $ cd latihan1
+
+![picture config](https://github.com/dilah199/latihan-1/blob/master/picture/gthy.PNG)
 
 Setelah direktory aktivnya jadi: d/lab_pemograman/latihan1
 
