@@ -49,6 +49,8 @@ pada direktory tersebut, semua perubahan pada working direktory akan disimpan
 
 $ echo “#Latihan 1” >> README.md
 
+![picture config](https://github.com/dilah199/latihan-1/blob/master/picture/Capture.PNG)
+
 • File README.md berhasil dibuat.
 
 6. Untuk menambahkan File yang baru saja di buat tersebut menggunakan git add
